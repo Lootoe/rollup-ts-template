@@ -1,4 +1,4 @@
-# Rollup-lib-template
+# Rollup-ts-template
 
 ## 注意
 
