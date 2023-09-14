@@ -1,0 +1,12 @@
+{
+    "presets": [
+        [
+            "@babel/env",
+            {
+                // 设置 "modules": false
+                // 否则 Babel 会在 Rollup 做处理之前将模块转成CJS
+                "modules": false
+            }
+        ]
+    ]
+}
